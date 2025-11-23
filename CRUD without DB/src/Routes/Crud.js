@@ -12,21 +12,21 @@ let db = [
     },
     {
         id: uuid(),
-        name: "aaaaa",
-        age: 34,
-        degination: "devloper"
+        name: "rimjhim",
+        age: 21,
+        degination: "designer"
     },
     {
         id: uuid(),
-        name: "bbbb",
+        name: "prince",
         age: 34,
-        degination: "devloper"
+        degination: "bussiness"
     },
     {
         id: uuid(),
-        name: "cccccc",
+        name: "seema",
         age: 34,
-        degination: "devloper"
+        degination: "ui Ux"
     },
 ]
 
